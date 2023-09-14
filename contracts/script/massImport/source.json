@@ -1,0 +1,68 @@
+[
+  {
+    "schemaId": "0xd1664d97bd195df77e3d5fe78c1737ab3adaa38bbe52a680d1aa30fa51f186ba",
+    "expirationDate": 1793835110,
+    "subject": "0xf1f5881ebc8b1bcb8df89faae642cbaba83f4940",
+    "attestationData": 1
+  },
+  {
+    "schemaId": "0xd1664d97bd195df77e3d5fe78c1737ab3adaa38bbe52a680d1aa30fa51f186ba",
+    "expirationDate": 1793835110,
+    "subject": "0x7f60b39986383551002e7bb54b6bc7a73c4b4ee8",
+    "attestationData": 2
+  },
+  {
+    "schemaId": "0xd1664d97bd195df77e3d5fe78c1737ab3adaa38bbe52a680d1aa30fa51f186ba",
+    "expirationDate": 1793835110,
+    "subject": "0x547b324b3f9e1f9f436fede6e88ae1ca816db6f3",
+    "attestationData": 3
+  },
+  {
+    "schemaId": "0xd1664d97bd195df77e3d5fe78c1737ab3adaa38bbe52a680d1aa30fa51f186ba",
+    "expirationDate": 1793835110,
+    "subject": "0xcb859f99f84ab770a50380680be94ad9331bcec5",
+    "attestationData": 4
+  },
+  {
+    "schemaId": "0xd1664d97bd195df77e3d5fe78c1737ab3adaa38bbe52a680d1aa30fa51f186ba",
+    "expirationDate": 1793835110,
+    "subject": "0x59cf6818b9e90cd73b2120ac621c0b54a99c8340",
+    "attestationData": 5
+  },
+  {
+    "schemaId": "0xd1664d97bd195df77e3d5fe78c1737ab3adaa38bbe52a680d1aa30fa51f186ba",
+    "expirationDate": 1793835110,
+    "subject": "0x591339da9cebef23f161710b1385d53cae1f3c6a",
+    "attestationData": 1
+  },
+  {
+    "schemaId": "0xd1664d97bd195df77e3d5fe78c1737ab3adaa38bbe52a680d1aa30fa51f186ba",
+    "expirationDate": 1793835110,
+    "subject": "0x1ead1b980c754b69b2ab59f1abb6bca900c2073a",
+    "attestationData": 2
+  },
+  {
+    "schemaId": "0xd1664d97bd195df77e3d5fe78c1737ab3adaa38bbe52a680d1aa30fa51f186ba",
+    "expirationDate": 1793835110,
+    "subject": "0xed6c7974d8a9ec60644c4f49861dc3bb752ee123",
+    "attestationData": 3
+  },
+  {
+    "schemaId": "0xd1664d97bd195df77e3d5fe78c1737ab3adaa38bbe52a680d1aa30fa51f186ba",
+    "expirationDate": 1793835110,
+    "subject": "0xd1b59274c6682e8d6201976e95e971b8affaccd0",
+    "attestationData": 4
+  },
+  {
+    "schemaId": "0xd1664d97bd195df77e3d5fe78c1737ab3adaa38bbe52a680d1aa30fa51f186ba",
+    "expirationDate": 1793835110,
+    "subject": "0x19383854824e6ed0270eedf7c3d56896e8c6e32e",
+    "attestationData": 5
+  },
+  {
+    "schemaId": "0xd1664d97bd195df77e3d5fe78c1737ab3adaa38bbe52a680d1aa30fa51f186ba",
+    "expirationDate": 1793835110,
+    "subject": "0x5cf6bb1765f5c1a3a12953deb26ff82ea4043acc",
+    "attestationData": 1
+  }
+]

@@ -43,6 +43,8 @@
     "deploy:post:scroll-sepolia": "npx hardhat run --network scroll-sepolia script/deploy/postDeployment.ts",
     "encode": "npx hardhat run script/encode.ts",
     "lint": "pnpm solhint \"{script,src,test}/**/*.sol\"",
+    "massImport": "npx hardhat run --network linea script/massImport/massImport.ts",
+    "massImport:goerli": "npx hardhat run --network linea-goerli script/massImport/massImport.ts",
     "reimport": "npx hardhat run --network linea script/recreateNetworkFile.ts",
     "reimport:goerli": "npx hardhat run --network linea-goerli script/recreateNetworkFile.ts",
     "reimport:scroll-sepolia": "npx hardhat run --network scroll-sepolia script/recreateNetworkFile.ts",
