@@ -26,5 +26,8 @@ build
 generated
 subgraph.yaml
 
+# SDK
+lib
+
 # Misc
 .DS_Store
