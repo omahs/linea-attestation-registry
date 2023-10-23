@@ -72,7 +72,7 @@ const veraxSdk = new VeraxSdk(myVeraxConfiguration);
 ### 1. Get DataMappers
 
 ```js
-// Each Verax classes has its DataMapper
+// Each Verax class has its DataMapper
 // Get them from the SDK instance
 const portalDataMapper = veraxSdk.portal; // RW Portals
 const schemaDataMapper = veraxSdk.schema; // RW Schemas
@@ -178,7 +178,7 @@ console.log(result);
 
 You can use command lines to test all the implemented SDK methods. Here are some examples.
 
-Note: if your don't pass any parameter (e.g. `pnpm portal findBy`)`, some default values will be used.
+Note: if you don't pass any parameter (e.g. `pnpm portal findBy`)`, some default values will be used.
 
 ### Portal examples
 
